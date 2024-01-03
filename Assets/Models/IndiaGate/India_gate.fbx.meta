@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: ea5fba82153c629449900a08501f9b54
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chain
+    second: {fileID: 2100000, guid: d24ba64d5fe4aef47b07d675e5f454ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IMG_palne
+    second: {fileID: 2100000, guid: 76ef7d4c2beb4974e8c214fd13b4726a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: a1e510eb68d557346bca00ad1ad383f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 513f506a4a912274893021f50d820cf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 2969b002c6896bf4f96f433f79b52b2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 23ad81d912a060a45af5488da45da94f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: a2ef502040edc7d4e8bc8ed6c6cea7e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 113e180735ae93c44958390a27871b76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: ff5e47d3af8515a489425008ab9ac7c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 90cb4ee07630aef4ead03a43893644e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: d2c3cb91cb336f841a3b813722772dc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 635fb1deaada17041a53b129492e1647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 96faf15607d2c8944a81618e8390ef4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: ffb86376c4065304eaa3205f002aa765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: ce05fd06bd93ec04a84b67594015b1b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PATH
+    second: {fileID: 2100000, guid: 1c3b48193d7be4449a70b50c4652d938, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROAD
+    second: {fileID: 2100000, guid: 9a96cf5b55f3f9349963ef94e5ee9d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banner
+    second: {fileID: 2100000, guid: a946e6b0de1520b4eb8e70773affc4db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chian_pillar
+    second: {fileID: 2100000, guid: c07eab28fb1287c438a0d060975e26a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: loka-banner
+    second: {fileID: 2100000, guid: 3a5e4a95dee01ca4a9fe6912b06c6a67, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0_00615 new
+    second: {fileID: 2800000, guid: 7d88af7e54b1e2144853a59d22b66d79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_Chain_BaseColor
+    second: {fileID: 2800000, guid: a7869560402242c428201ed3a0ab11f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_Chain_Metallic
+    second: {fileID: 2800000, guid: f6eadc2654c86b244a5ac608a3646ba4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_Chain_Normal
+    second: {fileID: 2800000, guid: 4b766b9a828d0d6489479fba67ccd5f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_PATH_BaseColor
+    second: {fileID: 2800000, guid: 9c36118ebf0e3854ca8763d6c472209a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_PATH_Normal
+    second: {fileID: 2800000, guid: 1e9bec67094e99044b8f9f33554bba4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_PATH_Roughness
+    second: {fileID: 2800000, guid: 5de011d1fa05d8243a333c449842876c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_ROAD_BaseColor
+    second: {fileID: 2800000, guid: d8ac8515817a4a447875a6c45423016d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_ROAD_Normal
+    second: {fileID: 2800000, guid: bb2ad1b00abead64ebd147f070137283, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_ROAD_Roughness
+    second: {fileID: 2800000, guid: b79311c6340f5ce428c0de5838bf387b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_chian_pillar_BaseColor
+    second: {fileID: 2800000, guid: db80ebb79e587774b9b1522762784d0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_chian_pillar_Normal
+    second: {fileID: 2800000, guid: d19b1944dc2508a43843044c966359a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: India_gate_chian_pillar_Roughness
+    second: {fileID: 2800000, guid: 62d2d13210d8608458169bbab08b8128, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane
+    second: {fileID: 2800000, guid: aa2378163263df943bcef891d391414e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RGB_2d364c7c7e1146fdadc1f5203bf93177_5
+    second: {fileID: 2800000, guid: 6f8f55481983f3b499965873bae3fb75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RGB_391783617fa642f387ec46861cecd928_w_%25281%2529
+    second: {fileID: 2800000, guid: d50777c5955577f4b81db980cefb4636, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RGB_60dcec0021ce49d885257bb536787ade_UV5
+    second: {fileID: 2800000, guid: f3228b29879379c499e22440ba9c5ebf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RGB_71670b6eb9e34a78a179124a6ecc5a09_w_%25283%2529
+    second: {fileID: 2800000, guid: f45ad05211bbf374db4f9940d3b96771, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RGB_b9ae6099dce647d3b60ecabfcea84977_UV14
+    second: {fileID: 2800000, guid: a76ba35c08f143346a644e42ed116080, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RGB_bbf048a133ed4162acd0c51140a3fcc0_UV12
+    second: {fileID: 2800000, guid: 0ee14591a4f42f54f856e48fbb914b53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RGB_e0976b64c0cb49fa823bae64f5d07a91_w_%25282%2529
+    second: {fileID: 2800000, guid: ca0873ed289b59e4fad6316d4dc2c378, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RGB_e9ac8c864eaf4fb4aea9a7ac6eaaeb00_UV10
+    second: {fileID: 2800000, guid: 80e7f6b63a24ae347b426d76ecb73f7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RGB_f495e0d895de4334a5da281cf718b04d_UV6
+    second: {fileID: 2800000, guid: 72ed608f2309765468b5ba71ab21e243, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baNNER_banner_BaseColor
+    second: {fileID: 2800000, guid: 1c27de44dbcf9f74fac39a3ff5129765, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baNNER_banner_Metallic
+    second: {fileID: 2800000, guid: d6b917100bdbbc442a332f81ca204c0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baNNER_banner_Normal
+    second: {fileID: 2800000, guid: e85328a71fefa2b4097cf2a59bc33cb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baNNER_banner_Roughness
+    second: {fileID: 2800000, guid: faa4a8f287146014cb9ad17094f49897, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
