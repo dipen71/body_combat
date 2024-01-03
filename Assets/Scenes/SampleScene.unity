@@ -405,6 +405,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: India_gate Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 3678262671082382291, guid: 69438f033733c1541acf1f1e44028837, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4053240513539717481, guid: 69438f033733c1541acf1f1e44028837, type: 3}
       propertyPath: m_RootOrder
       value: 4
