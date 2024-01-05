@@ -5532,14 +5532,9 @@ MonoBehaviour:
   moveDirection: {x: 0, y: 0, z: -1}
   moveSpeed: 5
   destroyDistance: 40
-  fadeDuration: 5
+  fadeDuration: 1
   materialsList:
-  - {fileID: 2100000, guid: 7d767675cc570294d8ffc785cf7d73cf, type: 2}
-  - {fileID: 2100000, guid: d0d874e7818d02c498a6c82377621657, type: 2}
-  - {fileID: 2100000, guid: fd98d9443dedf1743b46a940451c507e, type: 2}
-  - {fileID: 2100000, guid: aafc743f5733c6f48a7a40b4b09dee85, type: 2}
-  - {fileID: 2100000, guid: 5f693763a7fe1394b8a418d1349c8c99, type: 2}
-  - {fileID: 2100000, guid: c31f8d7d5c1d85b46ad0177b709386d4, type: 2}
+  - {fileID: 2100000, guid: 57c525d13ab57fe4a8c3a1a10dfc5948, type: 2}
 --- !u!1 &1684630015 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1611276943856173546, guid: 1b51adb729efad14188744e1035538f3, type: 3}
