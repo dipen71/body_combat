@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class MoveForward : MonoBehaviour
 {
@@ -7,6 +8,12 @@ public class MoveForward : MonoBehaviour
     private bool hasCollided = false; // Flag to check if collision has occurred
     public List<GameObject> breakable;
     public GameObject hide;
+    public Vector3 moveDirection = Vector3.forward; // Direction to move the object
+    public float moveSpeed = 5f; // Speed to move at
+    public float destroyDistance = 10f; // Distance at which the object gets destroyed
+
+    private float distanceTraveled = 0f; // Tracks the distance the object has traveled
+
 
     //for fading
     public float fadeDuration = 2.0f; // Duration in seconds
@@ -32,9 +39,22 @@ public class MoveForward : MonoBehaviour
         if (!hasCollided)
         {
             // Move the object along the world Z-axis when the "W" key is pressed.
-            if (Input.GetKey(KeyCode.W))
+            //if (Input.GetKey(KeyCode.W))
+            //{
+            //    transform.Translate(Vector3.forward * speed * Time.deltaTime, Space.World);
+            //}
+            float movementThisFrame = moveSpeed * Time.deltaTime;
+
+            // Update the distance traveled
+            distanceTraveled += movementThisFrame;
+
+            // Move the object in the specified direction
+            transform.Translate(moveDirection * movementThisFrame);
+
+            // Check if the object has traveled the required distance to be destroyed
+            if (distanceTraveled >= destroyDistance)
             {
-                transform.Translate(Vector3.forward * speed * Time.deltaTime, Space.World);
+                Destroy(gameObject);
             }
         }
 
