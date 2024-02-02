@@ -3,7 +3,82 @@ guid: 5f3e39ebbf3eb454cb1336eac241fe1c
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BODY'
+    second: {fileID: 2100000, guid: 9fe9293512d6bce4ba2defb97ceefb43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CIRCLE
+    second: {fileID: 2100000, guid: aa558eb7e1764d443971602d64f88578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHALL
+    second: {fileID: 2100000, guid: e21c2f40b4db8984494abdf9512e4efe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YELLOW_EMIT
+    second: {fileID: 2100000, guid: fb0d9846e008b6b4db4dca0340a49504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_emit
+    second: {fileID: 2100000, guid: c6dd5e7576108bf4b82176b297d2c217, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alpha
+    second: {fileID: 2800000, guid: 7aec241241ca3b145a601ccf77666730, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: color
+    second: {fileID: 2800000, guid: 896e6531514e07c4795883a2365b796c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fINAL_BODY'_BaseColor
+    second: {fileID: 2800000, guid: 52d22692c841dd843af8f36ab3056ce5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fINAL_BODY'_Metallic
+    second: {fileID: 2800000, guid: 6582e48573179c74cb3eecb7b11a743a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fINAL_BODY'_Normal
+    second: {fileID: 2800000, guid: 7427b2e55019b584a87bdee64c97f083, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fINAL_BODY'_Roughness
+    second: {fileID: 2800000, guid: 8e1810f74cee6614abbf6dd94d323564, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fINAL_SHALL_BaseColor
+    second: {fileID: 2800000, guid: cf575c1b8d0c87e41b00cae575ecf3c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fINAL_SHALL_Metallic
+    second: {fileID: 2800000, guid: fc8e621ec76937a41bc933d1b1138b38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fINAL_SHALL_Normal
+    second: {fileID: 2800000, guid: 8f1755c1106bcd1438e1516348c2c5e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fINAL_SHALL_Roughness
+    second: {fileID: 2800000, guid: 5a28cdfd4a10d1f44bd8b23a380cfe0d, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
